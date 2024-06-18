@@ -1,2 +1,1 @@
-# World-Happiness
-In this project I aimed to understand the relationship between nominal GDP and world happiness across countries. 
+In this project I aimed to understand the relationship between nominal GDP and world happiness across countries. In this project, I have analyzed the dataset using multiple visualizations which I saw fit and made a interactive "app" to help visualize my findings! Thank you for taking interest at my work!
